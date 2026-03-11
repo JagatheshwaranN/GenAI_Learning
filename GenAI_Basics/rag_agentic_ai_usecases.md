@@ -7,18 +7,6 @@
 - [RAG Architecture](#rag-architecture)
 - [Benefits of RAG](#benefits-of-rag)
 - [Agentic AI](#agentic-ai)
-- [Generative AI Use Cases Across Industries](#generative-ai-use-cases-across-industries)
-- [Software Development](#software-development)
-- [Testing](#testing)
-- [Requirement Gathering](#requirement-gathering)
-- [Documentation](#documentation)
-- [Retail Industry](#retail-industry)
-- [Supply Chain Optimization](#supply-chain-optimization)
-- [Customer Support](#customer-support)
-- [Sentiment Analysis](#sentiment-analysis)
-- [Marketing](#marketing)
-- [Search Engine Optimization (SEO)](#search-engine-optimization-seo)
-- [Market Research](#market-research)
 
 ---
 
